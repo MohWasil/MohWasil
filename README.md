@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔ I'm currently working on a ISP bandwidth splition project.<br>✔ I'm looking to collaborate with Lumen as Data analyst.<br>✔ I'm currently learning machine learning. <br>✔ Let's share our idea about machine learning.
+✔ I'm currently working on an Omdena project.<br>✔ I'm currently learning GenAI and working on some projects. <br>✔ Let's share our idea about machine learning.
 
 
 ## 🌐 Socials:
